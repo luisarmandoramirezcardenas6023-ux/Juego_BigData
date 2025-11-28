@@ -39,8 +39,6 @@ El desarrollo de este proyecto integra diversas tecnologías web y de aprendizaj
 ## Licencia y Uso
 Este software fue desarrollado con fines estrictamente académicos y educativos para la Universidad Autónoma de Baja California (UABC). Su distribución es libre para propósitos de aprendizaje.
 
----
-
 ### Autor
 **Ramirez Cardenas Luis Armando**
 Licenciatura en Inteligencia de Negocios
