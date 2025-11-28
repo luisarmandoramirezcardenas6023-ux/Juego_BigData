@@ -8,8 +8,8 @@ El objetivo principal es demostrar la aplicación práctica de **Redes Neuronale
 ## Demostración y Despliegue
 La aplicación se encuentra desplegada y disponible para su ejecución directa desde el navegador, sin necesidad de instalaciones locales.
 
-* **Acceso al Sistema Web:** [Enlace a GitHub Pages](AQUI_PONES_TU_LINK)
-* **Video Demostrativo:** [Enlace al Video](AQUI_PONES_TU_LINK_SI_TIENES)
+* **Acceso al Sistema Web:** [Enlace a GitHub Pages](https://armandoramirez951.github.io/PF_BigData/)
+* **Video Demostrativo:** [Enlace al Video](https://www.youtube.com/watch?v=99DpWhBp8gg)
 
 > **Nota Importante:** Para el correcto funcionamiento del algoritmo de detección, es indispensable otorgar permisos de uso de la cámara web cuando el navegador lo solicite.
 
