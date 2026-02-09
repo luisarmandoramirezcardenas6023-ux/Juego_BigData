@@ -5,6 +5,15 @@ El presente repositorio contiene el código fuente y los recursos necesarios par
 
 El objetivo principal es demostrar la aplicación práctica de **Redes Neuronales Convolucionales (CNN)** en un entorno web, permitiendo la interacción humano-máquina en tiempo real para ejecutar el juego clásico de "Piedra, Papel o Tijera". El sistema es capaz de capturar, procesar y clasificar gestos manuales a través de la cámara web del usuario.
 
+## 🧠 ¿Qué problemas soluciona?
+En el ámbito del Big Data y la Inteligencia Artificial, este sistema automatiza procesos críticos que tradicionalmente requieren intervención humana constante:
+
+* **Detección Automatizada de Patrones:** Elimina la necesidad de inspección manual mediante el uso de una red neuronal entrenada para identificar categorías específicas con alta precisión.
+* **Procesamiento de Datos No Estructurados:** Soluciona la dificultad de interpretar grandes volúmenes de datos visuales o sensoriales, convirtiéndolos en etiquetas clasificables y procesables para la toma de decisiones.
+* **Optimización de Tiempo en Clasificación:** Reduce drásticamente el tiempo de respuesta en tareas de reconocimiento, permitiendo una ejecución fluida en tiempo real desde una interfaz web.
+* **Accesibilidad de Modelos de IA:** Facilita el uso de modelos complejos de Machine Learning para usuarios finales a través de una integración sencilla con tecnologías web (HTML/JS).
+* **Persistencia y Portabilidad del Conocimiento:** Permite el almacenamiento y carga de pesos de entrenamiento, asegurando que el modelo sea reutilizable y distribuible sin necesidad de reentrenar desde cero.
+
 ## Demostración y Despliegue
 La aplicación se encuentra desplegada y disponible para su ejecución directa desde el navegador, sin necesidad de instalaciones locales.
 
